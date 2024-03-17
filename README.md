@@ -4,6 +4,13 @@ Fully Automated Kubernetes setup on MAC Silicon M1/M2 laptops using Vagrant and 
 
 It can be used as CKA, CKAD, and CKS practice lab.
 
+Here is the high level workflow.
+
+<p align="center">
+  <img src="https://github.com/techiescamp/vagrant-kubeadm-mac-silicon/assets/106984297/8410a3d1-0d78-4f67-b9ae-01115d06b9ca" width="65%" />
+</p>
+
+
 ## Prerequisites
 
 A working Vagrant setup using VMware Fusion on MAC.
