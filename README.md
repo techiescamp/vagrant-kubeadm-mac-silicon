@@ -1,8 +1,24 @@
+## CKA, CKAD, CKS, or KCNA Coupon Codes
+
+As part of our commitment to helping the DevOps community save money on Kubernetes Certifications, we continuously update the latest voucher codes from the Linux Foundation
+
+🚀  CKA, CKAD, CKS, or KCNA exam aspirants can **save $100** today using code **LUCK24COM** at https://kube.promo/devops. It is a limited-time offer from the Linux Foundation.
+
+The following are the best bundles to **save Extra 40%** with code **LUCK24CT**
+
+- CKA + CKAD + CKS Exam bundle ($526 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- CKA + CKS Bundle ($355 Savings) [kube.promo/bundle](https://kube.promo/bundle)
+- KCNA + CKA ( $288 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+
+>Note: You have one year of validity to appear for the certification exam after registration
+
 # Vagrant Kubeadm Cluster MAC Silicon 
 
 Fully Automated Kubernetes setup on MAC Silicon M1/M2 laptops using Vagrant and VMWare Fusion.
 
 It can be used as CKA, CKAD, and CKS practice lab.
+
+For MAC intel based setup, check - [Vagrant Kubeadm Setup on MAC Intel](https://github.com/techiescamp/vagrant-kubeadm-kubernetes)
 
 Here is the high level workflow.
 
