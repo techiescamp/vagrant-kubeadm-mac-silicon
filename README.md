@@ -1,4 +1,4 @@
-## CKA, CKAD, CKS, or KCNA Coupon Codes
+## CKA, CKAD, CKS, or KCNA Vouchers
 
 As part of our commitment to helping the DevOps community save money on Kubernetes Certifications, we continuously update the latest voucher codes from the Linux Foundation
 
