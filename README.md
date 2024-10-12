@@ -2,7 +2,7 @@
 
 As part of our commitment to helping the DevOps community save money on Kubernetes Certifications, we continuously update the latest voucher codes from the Linux Foundation
 
-🚀  CKA, CKAD, CKS, or KCNA exam aspirants can **save 30%** today using code **30COMTECHIES** at https://kube.promo/devops. It is a limited-time offer from the Linux Foundation.
+🚀  CKA, CKAD, CKS, or KCNA exam aspirants can **save 30%** today using code **DCUBE30** at https://kube.promo/devops. It is a limited-time offer from the Linux Foundation.
 
 The following are the best bundles to **save 40% (up to $788)** with code **30COMTECHIES**
 
