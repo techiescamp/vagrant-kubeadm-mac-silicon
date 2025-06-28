@@ -34,4 +34,3 @@ software:
   # To skip the dashboard installation, set its version to an empty value or comment it out:
   dashboard: 2.7.0
   kubernetes: 1.29.0-*
-
