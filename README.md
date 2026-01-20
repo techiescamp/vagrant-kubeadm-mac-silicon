@@ -1,11 +1,11 @@
-## Kubernetes Certification Voucher (UpTo 38% OFF) 🎉
+## Kubernetes Certification Voucher (UpTo 40% OFF) 🎉
 
 As part of our commitment to helping the DevOps community save money on Kubernetes Certifications, we continuously update the latest voucher codes from the Linux Foundation
 
 > [!IMPORTANT]
-> 🚀  Kubernetes Certification aspirants can **save 30%** today using code **DCUBE30** at https://kube.promo/devops. It is a limited-time offer from the Linux Foundation.
+> 🚀  Kubernetes Certification aspirants can **save 35%** today using code **SKILLSMIX26CT** at https://kube.promo/devops. It is a limited-time offer from the Linux Foundation.
 
-The following are the best bundles to **save 38% (up to $788)** with code **DCUBE30**
+The following are the best bundles to **save 40% (up to $788)** with code **SKILLSMIX26CT**
 
 - KCNA + KCSA + CKA + CKAD + CKS ($788 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 - CKA + CKAD + CKS Exam bundle ($528 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
