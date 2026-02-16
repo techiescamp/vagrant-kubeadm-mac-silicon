@@ -1,18 +1,21 @@
-## Kubernetes Certification Voucher (UpTo 40% OFF) 🎉
+## Kubernetes Certification Voucher (UpTo 50% OFF) 🎉
 
-As part of our commitment to helping the DevOps community save money on Kubernetes Certifications, we continuously update the latest voucher codes from the Linux Foundation
+If you are learning Kubernetes and preparing for Kubernetes certifications, these voucher codes will help you save money on your certification registration.
+
+CKA, CKAD, CKS, KCNA etc.. aspirants can **save 35%** today
 
 > [!IMPORTANT]
-> 🚀  Kubernetes Certification aspirants can **save 35%** today using code **SKILLSMIX26CT** at https://kube.promo/devops. It is a limited-time offer from the Linux Foundation.
+> Use code **LUNAR26CT** at https://kube.promo/devops. It is a limited-time offer from the Linux Foundation.
 
-The following are the best bundles to **save 40% (up to $788)** with code **SKILLSMIX26CT**
+The following are the best bundles to **save 50%** with code **LUNAR26BUNCT**
 
-- KCNA + KCSA + CKA + CKAD + CKS ($788 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- CKA + CKAD + CKS Exam bundle ($528 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- CKA + CKS Bundle ($355 Savings) [kube.promo/bundle](https://kube.promo/bundle)
+- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
+- CKA + CKS Bundle: [kube.promo/bundle](https://kube.promo/bundle)
+- CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- KCNA + KCSA + CKA + CKAD + CKS: [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 
 > [!NOTE]
-> For all the offers, check out the [Linux Foudnation Coupon](https://github.com/techiescamp/linux-foundation-coupon) repo.
+> For all the other offers, check out the [Linux Foudnation Coupon](https://github.com/techiescamp/linux-foundation-coupon) repo.
 
 ## Vagrant Kubeadm Cluster MAC Silicon 
 
